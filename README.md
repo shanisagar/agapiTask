@@ -1,2 +1,0 @@
-# agapiTask
-Task for AGAPI
